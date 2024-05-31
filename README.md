@@ -9,6 +9,11 @@ Define Software Engineering:
 What is software engineering, and how does it differ from traditional programming?
 Software Development Life Cycle (SDLC):
 
+answer=Software engineering is a structured discipline that focuses on designing, developing, and maintaining software systems using engineering principles and practices. Software engineers follow a systematic approach to software development that includes requirements gathering, design, coding, testing, deployment, and maintenance. 
+
+On the other hand, traditional programming typically refers to the act of writing code to create specific software functionality without necessarily following a structured process. Traditional programming may focus more on the technical aspects of coding rather than the broader software development considerations such as requirements analysis, design, and testing.
+
+Software Development Life Cycle (SDLC) refers to the process of developing software from initial conception to final deployment and maintenance. The SDLC typically includes stages such as planning, requirements analysis, design, implementation, testing, deployment, and maintenance. This process ensures that software systems are developed in a systematic and organized manner, leading to higher quality and reliability in the final product. Each stage of the SDLC requires specific activities, tools, and techniques to be employed to ensure successful software development.
 Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
 Agile vs. Waterfall Models:
 
